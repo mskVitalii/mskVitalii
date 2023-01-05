@@ -1,4 +1,4 @@
-### Fullstack, Team Leader
+## Fullstack, Team Leader
 
 I elaborate business logic and develop tech solutions
 
