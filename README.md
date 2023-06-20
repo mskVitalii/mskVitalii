@@ -2,6 +2,8 @@
 
 I elaborate business logic and develop suitable tech solutions
 
+Right now I am looking for a Go backend vacancy to develop web apps, microservices or infrastructure
+
 #### Most notable experience:
 - highload at OZON
 - silicon valley startup NCahoots
@@ -20,3 +22,5 @@ I elaborate business logic and develop suitable tech solutions
 - [App for a typography](https://typography.gatsbyjs.io/)
 - [PET: app to draw a signature](https://sign-app-mu.vercel.app/)
 - [Party landing](https://party30770.gatsbyjs.io/)
+
+Also I'm a HSE alumni with a degree at Software Engineering
