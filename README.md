@@ -2,7 +2,7 @@
 
 I elaborate business logic and develop suitable tech solutions
 
-Right now I am looking for a Go backend vacancy to develop web apps, microservices or infrastructure
+Right now I am looking for a vacancy to develop web apps, microservices and infrastructure
 
 #### Most notable experience:
 - highload at OZON
