@@ -23,7 +23,7 @@ And TU Chemnitz alumni with a master degree at Web Engineering
 
 My master thesis: AI Semantic Search for the Government Open Data
 
-# Vitalii's Tech Stack
+# Tech Stack
 
 ## Skills by Category
 
@@ -279,4 +279,7 @@ My master thesis: AI Semantic Search for the Government Open Data
 
 ---
 
-*Generated with [Hiring GitHub Readme](https://mskvitalii.github.io/hiring-github-readme/)*
+*Generated with my project: [Hiring GitHub Readme](https://hiring-github-readme.vercel.app/) - check it out*
+
+Starting from 19.03.2026 - 
+[![Repo Views](https://visitor-badge.laobi.icu/badge?page_id=mskvitalii.mskvitalii)](https://github.com/mskvitalii/mskvitalii)
