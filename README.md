@@ -28,112 +28,208 @@ My master thesis: AI Semantic Search for the Government Open Data
 ## Skills by Category
 
 ### 🧠 Languages
-![TypeScript](https://img.shields.io/static/v1?label=&message=TypeScript&color=3178C6&style=flat-square&logo=typescript&logoColor=ffffff) ![JavaScript](https://img.shields.io/static/v1?label=&message=JavaScript&color=F7DF1E&style=flat-square&logo=javascript&logoColor=000000) ![Swift](https://img.shields.io/static/v1?label=&message=Swift&color=FA7343&style=flat-square&logo=swift&logoColor=ffffff) ![Python](https://img.shields.io/static/v1?label=&message=Python&color=3776AB&style=flat-square&logo=python&logoColor=ffffff) ![Go](https://img.shields.io/static/v1?label=&message=Go&color=00ADD8&style=flat-square&logo=go&logoColor=ffffff) ![Java](https://img.shields.io/static/v1?label=&message=Java&color=ED8B00&style=flat-square&logo=openjdk&logoColor=ffffff)
+![TypeScript](https://img.shields.io/static/v1?label=&message=TypeScript&color=3178C6&style=flat-square&logo=typescript&logoColor=ffffff) ![JavaScript](https://img.shields.io/static/v1?label=&message=JavaScript&color=F7DF1E&style=flat-square&logo=javascript&logoColor=000000) ![Python](https://img.shields.io/static/v1?label=&message=Python&color=3776AB&style=flat-square&logo=python&logoColor=ffffff) ![Go](https://img.shields.io/static/v1?label=&message=Go&color=00ADD8&style=flat-square&logo=go&logoColor=ffffff) ![Java](https://img.shields.io/static/v1?label=&message=Java&color=ED8B00&style=flat-square&logo=openjdk&logoColor=ffffff) ![Shell](https://img.shields.io/static/v1?label=&message=Shell&color=4EAA25&style=flat-square&logo=gnubash&logoColor=ffffff)
 
 ### 🎨 Frontend
-![HTML](https://img.shields.io/static/v1?label=&message=HTML&color=E34F26&style=flat-square&logo=html5&logoColor=ffffff) ![CSS](https://img.shields.io/static/v1?label=&message=CSS&color=1572B6&style=flat-square&logo=css3&logoColor=ffffff)
+![Gatsby (TS/JS)](https://img.shields.io/static/v1?label=&message=Gatsby+%28TS%2FJS%29&color=663399&style=flat-square&logo=gatsby&logoColor=ffffff) ![HTML](https://img.shields.io/static/v1?label=&message=HTML&color=E34F26&style=flat-square&logo=html5&logoColor=ffffff) ![CSS](https://img.shields.io/static/v1?label=&message=CSS&color=1572B6&style=flat-square&logo=css3&logoColor=ffffff)
 
 ### ⚙️ Backend
 ![C# / .NET](https://img.shields.io/static/v1?label=&message=C%23+%2F+.NET&color=512BD4&style=flat-square&logo=dotnet&logoColor=ffffff)
 
 ### 🗄️ Databases
-![Firebase](https://img.shields.io/static/v1?label=&message=Firebase&color=FFCA28&style=flat-square&logo=firebase&logoColor=000000)
+![MongoDB](https://img.shields.io/static/v1?label=&message=MongoDB&color=47A248&style=flat-square&logo=mongodb&logoColor=ffffff) ![PostgreSQL](https://img.shields.io/static/v1?label=&message=PostgreSQL&color=4169E1&style=flat-square&logo=postgresql&logoColor=ffffff) ![MySQL](https://img.shields.io/static/v1?label=&message=MySQL&color=4479A1&style=flat-square&logo=mysql&logoColor=ffffff) ![Redis](https://img.shields.io/static/v1?label=&message=Redis&color=FF4438&style=flat-square&logo=redis&logoColor=ffffff) ![Elasticsearch](https://img.shields.io/static/v1?label=&message=Elasticsearch&color=005571&style=flat-square&logo=elasticsearch&logoColor=ffffff) ![Firebase](https://img.shields.io/static/v1?label=&message=Firebase&color=FFCA28&style=flat-square&logo=firebase&logoColor=000000)
 
 ### ☁️ DevOps & Cloud
-![Kubernetes](https://img.shields.io/static/v1?label=&message=Kubernetes&color=326CE5&style=flat-square&logo=kubernetes&logoColor=ffffff) ![Azure](https://img.shields.io/static/v1?label=&message=Azure&color=0078D4&style=flat-square&logo=microsoftazure&logoColor=ffffff) ![GitHub Actions](https://img.shields.io/static/v1?label=&message=GitHub+Actions&color=2088FF&style=flat-square&logo=githubactions&logoColor=ffffff)
+![Docker](https://img.shields.io/static/v1?label=&message=Docker&color=2496ED&style=flat-square&logo=docker&logoColor=ffffff) ![Prometheus](https://img.shields.io/static/v1?label=&message=Prometheus&color=E6522C&style=flat-square&logo=prometheus&logoColor=ffffff) ![Grafana](https://img.shields.io/static/v1?label=&message=Grafana&color=F46800&style=flat-square&logo=grafana&logoColor=ffffff) ![Kubernetes](https://img.shields.io/static/v1?label=&message=Kubernetes&color=326CE5&style=flat-square&logo=kubernetes&logoColor=ffffff) ![GitHub Actions](https://img.shields.io/static/v1?label=&message=GitHub+Actions&color=2088FF&style=flat-square&logo=githubactions&logoColor=ffffff) ![Azure](https://img.shields.io/static/v1?label=&message=Azure&color=0078D4&style=flat-square&logo=microsoftazure&logoColor=ffffff)
 
 ### 🧪 Testing
-![Jest](https://img.shields.io/static/v1?label=&message=Jest&color=C21325&style=flat-square&logo=jest&logoColor=ffffff)
+![Jest](https://img.shields.io/static/v1?label=&message=Jest&color=C21325&style=flat-square&logo=jest&logoColor=ffffff) ![Pytest](https://img.shields.io/static/v1?label=&message=Pytest&color=0A9EDC&style=flat-square&logo=pytest&logoColor=ffffff)
 
 ## 🧠 Languages
 
 ### TypeScript
 
-- [hiring-github-readme](https://github.com/mskVitalii/hiring-github-readme) [![stars](https://img.shields.io/badge/stars-1-1f6feb?style=flat-square)](https://github.com/mskVitalii/hiring-github-readme) [![demo](https://img.shields.io/badge/demo-live-2ea043?style=flat-square)](https://mskvitalii.github.io/hiring-github-readme/)
-- [auth-send-message-to-slack](https://github.com/mskVitalii/auth-send-message-to-slack) [![demo](https://img.shields.io/badge/demo-live-2ea043?style=flat-square)](https://extensions.dev/extensions/mskvitalii/auth-send-message-to-slack)
-- [Sign-app](https://github.com/mskVitalii/Sign-app) [![demo](https://img.shields.io/badge/demo-live-2ea043?style=flat-square)](sign-app-mu.vercel.app)
-- [effects](https://github.com/mskVitalii/effects) [![demo](https://img.shields.io/badge/demo-live-2ea043?style=flat-square)](effects.vercel.app)
-- [prospero_adminka](https://github.com/mskVitalii/prospero_adminka) [![demo](https://img.shields.io/badge/demo-live-2ea043?style=flat-square)](https://prospero-adminka.vercel.app)
-- [prospero_frontend](https://github.com/mskVitalii/prospero_frontend) [![demo](https://img.shields.io/badge/demo-live-2ea043?style=flat-square)](https://prospero-frontend.vercel.app)
-- [linear-adaptive](https://github.com/mskVitalii/linear-adaptive) [![demo](https://img.shields.io/badge/demo-live-2ea043?style=flat-square)](linear-adaptive.vercel.app)
-- [chemnitz_map](https://github.com/mskVitalii/chemnitz_map) [![stars](https://img.shields.io/badge/stars-3-1f6feb?style=flat-square)](https://github.com/mskVitalii/chemnitz_map)
-- [semantically-open-data-frontend](https://github.com/mskVitalii/semantically-open-data-frontend)
+| Repository | Description | Demo |
+| --- | --- | --- |
+| [hiring-github-readme](https://github.com/mskVitalii/hiring-github-readme) | Your Repositories → GitHub profile .md for HR | [live](https://mskvitalii.github.io/hiring-github-readme/) |
+| [auth-send-message-to-slack](https://github.com/mskVitalii/auth-send-message-to-slack) | This Firebase extension sends a message to your slack bot once a new user is created | [live](https://extensions.dev/extensions/mskvitalii/auth-send-message-to-slack) |
+| [Sign-app](https://github.com/mskVitalii/Sign-app) | - | [live](sign-app-mu.vercel.app) |
+| [effects](https://github.com/mskVitalii/effects) | Comics / manga with effects | [live](effects.vercel.app) |
+| [prospero_adminka](https://github.com/mskVitalii/prospero_adminka) | - | [live](https://prospero-adminka.vercel.app) |
+| [prospero_frontend](https://github.com/mskVitalii/prospero_frontend) | Агрегатор новостей на карте с продвинутым поиском | [live](https://prospero-frontend.vercel.app) |
+| [linear-adaptive](https://github.com/mskVitalii/linear-adaptive) | - | [live](linear-adaptive.vercel.app) |
+| [chemnitz_map](https://github.com/mskVitalii/chemnitz_map) | - | - |
+| [semantically-open-data-frontend](https://github.com/mskVitalii/semantically-open-data-frontend) | - | - |
+| [gatsby-datocms-blog-demo](https://github.com/mskVitalii/gatsby-datocms-blog-demo) | This repository was created by Gatsby Cloud | - |
 
 ### JavaScript
 
-- [FassonAPI](https://github.com/mskVitalii/FassonAPI) [![demo](https://img.shields.io/badge/demo-live-2ea043?style=flat-square)](https://fassonapi.azurewebsites.net/)
-- [Scott-Pilgrim-Parallax](https://github.com/mskVitalii/Scott-Pilgrim-Parallax) [![stars](https://img.shields.io/badge/stars-1-1f6feb?style=flat-square)](https://github.com/mskVitalii/Scott-Pilgrim-Parallax)
-- [Tango_admin](https://github.com/mskVitalii/Tango_admin)
-
-### Swift
-
-- [exam](https://github.com/mskVitalii/exam) [![stars](https://img.shields.io/badge/stars-1-1f6feb?style=flat-square)](https://github.com/mskVitalii/exam)
+| Repository | Description | Demo |
+| --- | --- | --- |
+| [FassonAPI](https://github.com/mskVitalii/FassonAPI) | Semester project | [live](https://fassonapi.azurewebsites.net/) |
 
 ### Python
 
-- [product_hunt_observer](https://github.com/mskVitalii/product_hunt_observer) [![stars](https://img.shields.io/badge/stars-1-1f6feb?style=flat-square)](https://github.com/mskVitalii/product_hunt_observer)
-- [semantically-open-data-backend](https://github.com/mskVitalii/semantically-open-data-backend)
-- [semantically-open-data-reranker](https://github.com/mskVitalii/semantically-open-data-reranker)
-- [semantically-open-data-embedder](https://github.com/mskVitalii/semantically-open-data-embedder)
+| Repository | Description | Demo |
+| --- | --- | --- |
+| [product_hunt_observer](https://github.com/mskVitalii/product_hunt_observer) | Harvesting ProductHunt startups for today and printing in a enchanted way with LLM in a TG channel | - |
+| [semantically-open-data-backend](https://github.com/mskVitalii/semantically-open-data-backend) | - | - |
+| [semantically-open-data-reranker](https://github.com/mskVitalii/semantically-open-data-reranker) | - | - |
+| [semantically-open-data-embedder](https://github.com/mskVitalii/semantically-open-data-embedder) | - | - |
 
 ### Go
 
-- [Semki](https://github.com/mskVitalii/Semki) [![demo](https://img.shields.io/badge/demo-live-2ea043?style=flat-square)](https://www.youtube.com/watch?v=4vvkE5uHvkU)
-- [Tango-server](https://github.com/mskVitalii/Tango-server) [![stars](https://img.shields.io/badge/stars-15-1f6feb?style=flat-square)](https://github.com/mskVitalii/Tango-server)
-- [prospero_backend](https://github.com/mskVitalii/prospero_backend)
-- [Tango_admin](https://github.com/mskVitalii/Tango_admin)
+| Repository | Description | Demo |
+| --- | --- | --- |
+| [Semki](https://github.com/mskVitalii/Semki) | Communication Software for Staffbase's "Code the Future" | [live](https://www.youtube.com/watch?v=4vvkE5uHvkU) |
+| [Tango-server](https://github.com/mskVitalii/Tango-server) | Сервер для приложения Tango | - |
+| [prospero_backend](https://github.com/mskVitalii/prospero_backend) | - | - |
 
 ### Java
 
-- [FassonAPI](https://github.com/mskVitalii/FassonAPI) [![demo](https://img.shields.io/badge/demo-live-2ea043?style=flat-square)](https://fassonapi.azurewebsites.net/)
-- [Tango-server](https://github.com/mskVitalii/Tango-server) [![stars](https://img.shields.io/badge/stars-15-1f6feb?style=flat-square)](https://github.com/mskVitalii/Tango-server)
-- [Scott-Pilgrim-Parallax](https://github.com/mskVitalii/Scott-Pilgrim-Parallax) [![stars](https://img.shields.io/badge/stars-1-1f6feb?style=flat-square)](https://github.com/mskVitalii/Scott-Pilgrim-Parallax)
+| Repository | Description | Demo |
+| --- | --- | --- |
+| [FassonAPI](https://github.com/mskVitalii/FassonAPI) | Semester project | [live](https://fassonapi.azurewebsites.net/) |
+| [Tango-server](https://github.com/mskVitalii/Tango-server) | Сервер для приложения Tango | - |
+
+### Shell
+
+| Repository | Description | Demo |
+| --- | --- | --- |
+| [react-redux-watcher-test](https://github.com/mskVitalii/react-redux-watcher-test) | - | - |
 
 ## 🎨 Frontend
 
+### Gatsby (TS/JS)
+
+| Repository | Description | Demo |
+| --- | --- | --- |
+| [gatsby-datocms-blog-demo](https://github.com/mskVitalii/gatsby-datocms-blog-demo) | This repository was created by Gatsby Cloud | - |
+
 ### HTML
 
-- [FassonAPI](https://github.com/mskVitalii/FassonAPI) [![demo](https://img.shields.io/badge/demo-live-2ea043?style=flat-square)](https://fassonapi.azurewebsites.net/)
-- [Scott-Pilgrim-Parallax](https://github.com/mskVitalii/Scott-Pilgrim-Parallax) [![stars](https://img.shields.io/badge/stars-1-1f6feb?style=flat-square)](https://github.com/mskVitalii/Scott-Pilgrim-Parallax)
+| Repository | Description | Demo |
+| --- | --- | --- |
+| [FassonAPI](https://github.com/mskVitalii/FassonAPI) | Semester project | [live](https://fassonapi.azurewebsites.net/) |
+| [Zoohackaton](https://github.com/mskVitalii/Zoohackaton) | - | - |
 
 ### CSS
 
-- [FassonAPI](https://github.com/mskVitalii/FassonAPI) [![demo](https://img.shields.io/badge/demo-live-2ea043?style=flat-square)](https://fassonapi.azurewebsites.net/)
-- [Scott-Pilgrim-Parallax](https://github.com/mskVitalii/Scott-Pilgrim-Parallax) [![stars](https://img.shields.io/badge/stars-1-1f6feb?style=flat-square)](https://github.com/mskVitalii/Scott-Pilgrim-Parallax)
+| Repository | Description | Demo |
+| --- | --- | --- |
+| [FassonAPI](https://github.com/mskVitalii/FassonAPI) | Semester project | [live](https://fassonapi.azurewebsites.net/) |
 
 ## ⚙️ Backend
 
 ### C# / .NET
 
-- [SSE](https://github.com/mskVitalii/SSE) [![stars](https://img.shields.io/badge/stars-1-1f6feb?style=flat-square)](https://github.com/mskVitalii/SSE)
-- [Clicker](https://github.com/mskVitalii/Clicker) [![stars](https://img.shields.io/badge/stars-1-1f6feb?style=flat-square)](https://github.com/mskVitalii/Clicker)
-- [AMC-Makeathon-2020](https://github.com/mskVitalii/AMC-Makeathon-2020)
+| Repository | Description | Demo |
+| --- | --- | --- |
+| [react-redux-watcher](https://github.com/mskVitalii/react-redux-watcher) | - | - |
+| [AMC-Makeathon-2020](https://github.com/mskVitalii/AMC-Makeathon-2020) | Gamification. Learning. Visualisation. | - |
 
 ## 🗄️ Databases
 
+### MongoDB
+
+| Repository | Description | Demo |
+| --- | --- | --- |
+| [Semki](https://github.com/mskVitalii/Semki) | Communication Software for Staffbase's "Code the Future" | [live](https://www.youtube.com/watch?v=4vvkE5uHvkU) |
+| [chemnitz_map](https://github.com/mskVitalii/chemnitz_map) | - | - |
+| [semantically-open-data-backend](https://github.com/mskVitalii/semantically-open-data-backend) | - | - |
+
+### PostgreSQL
+
+| Repository | Description | Demo |
+| --- | --- | --- |
+| [prospero_backend](https://github.com/mskVitalii/prospero_backend) | - | - |
+
+### MySQL
+
+| Repository | Description | Demo |
+| --- | --- | --- |
+| [Semki](https://github.com/mskVitalii/Semki) | Communication Software for Staffbase's "Code the Future" | [live](https://www.youtube.com/watch?v=4vvkE5uHvkU) |
+
+### Redis
+
+| Repository | Description | Demo |
+| --- | --- | --- |
+| [Semki](https://github.com/mskVitalii/Semki) | Communication Software for Staffbase's "Code the Future" | [live](https://www.youtube.com/watch?v=4vvkE5uHvkU) |
+
+### Elasticsearch
+
+| Repository | Description | Demo |
+| --- | --- | --- |
+| [prospero_backend](https://github.com/mskVitalii/prospero_backend) | - | - |
+
 ### Firebase
 
-- [auth-send-message-to-slack](https://github.com/mskVitalii/auth-send-message-to-slack) [![demo](https://img.shields.io/badge/demo-live-2ea043?style=flat-square)](https://extensions.dev/extensions/mskvitalii/auth-send-message-to-slack)
+| Repository | Description | Demo |
+| --- | --- | --- |
+| [auth-send-message-to-slack](https://github.com/mskVitalii/auth-send-message-to-slack) | This Firebase extension sends a message to your slack bot once a new user is created | [live](https://extensions.dev/extensions/mskvitalii/auth-send-message-to-slack) |
 
 ## ☁️ DevOps & Cloud
 
+### Docker
+
+| Repository | Description | Demo |
+| --- | --- | --- |
+| [Semki](https://github.com/mskVitalii/Semki) | Communication Software for Staffbase's "Code the Future" | [live](https://www.youtube.com/watch?v=4vvkE5uHvkU) |
+| [chemnitz_map](https://github.com/mskVitalii/chemnitz_map) | - | - |
+| [semantically-open-data-backend](https://github.com/mskVitalii/semantically-open-data-backend) | - | - |
+| [semantically-open-data-embedder](https://github.com/mskVitalii/semantically-open-data-embedder) | - | - |
+| [semantically-open-data-frontend](https://github.com/mskVitalii/semantically-open-data-frontend) | - | - |
+| [prospero_backend](https://github.com/mskVitalii/prospero_backend) | - | - |
+
+### Prometheus
+
+| Repository | Description | Demo |
+| --- | --- | --- |
+| [Semki](https://github.com/mskVitalii/Semki) | Communication Software for Staffbase's "Code the Future" | [live](https://www.youtube.com/watch?v=4vvkE5uHvkU) |
+| [chemnitz_map](https://github.com/mskVitalii/chemnitz_map) | - | - |
+| [prospero_backend](https://github.com/mskVitalii/prospero_backend) | - | - |
+
+### Grafana
+
+| Repository | Description | Demo |
+| --- | --- | --- |
+| [Semki](https://github.com/mskVitalii/Semki) | Communication Software for Staffbase's "Code the Future" | [live](https://www.youtube.com/watch?v=4vvkE5uHvkU) |
+| [chemnitz_map](https://github.com/mskVitalii/chemnitz_map) | - | - |
+| [prospero_backend](https://github.com/mskVitalii/prospero_backend) | - | - |
+
 ### Kubernetes
 
-- [chemnitz_map](https://github.com/mskVitalii/chemnitz_map) [![stars](https://img.shields.io/badge/stars-3-1f6feb?style=flat-square)](https://github.com/mskVitalii/chemnitz_map)
-
-### Azure
-
-- [FassonAPI](https://github.com/mskVitalii/FassonAPI) [![demo](https://img.shields.io/badge/demo-live-2ea043?style=flat-square)](https://fassonapi.azurewebsites.net/)
+| Repository | Description | Demo |
+| --- | --- | --- |
+| [chemnitz_map](https://github.com/mskVitalii/chemnitz_map) | - | - |
+| [prospero_backend](https://github.com/mskVitalii/prospero_backend) | - | - |
 
 ### GitHub Actions
 
-- [hiring-github-readme](https://github.com/mskVitalii/hiring-github-readme) [![stars](https://img.shields.io/badge/stars-1-1f6feb?style=flat-square)](https://github.com/mskVitalii/hiring-github-readme) [![demo](https://img.shields.io/badge/demo-live-2ea043?style=flat-square)](https://mskvitalii.github.io/hiring-github-readme/)
+| Repository | Description | Demo |
+| --- | --- | --- |
+| [hiring-github-readme](https://github.com/mskVitalii/hiring-github-readme) | Your Repositories → GitHub profile .md for HR | [live](https://mskvitalii.github.io/hiring-github-readme/) |
+| [prospero_backend](https://github.com/mskVitalii/prospero_backend) | - | - |
+
+### Azure
+
+| Repository | Description | Demo |
+| --- | --- | --- |
+| [FassonAPI](https://github.com/mskVitalii/FassonAPI) | Semester project | [live](https://fassonapi.azurewebsites.net/) |
 
 ## 🧪 Testing
 
 ### Jest
 
-- [hiring-github-readme](https://github.com/mskVitalii/hiring-github-readme) [![stars](https://img.shields.io/badge/stars-1-1f6feb?style=flat-square)](https://github.com/mskVitalii/hiring-github-readme) [![demo](https://img.shields.io/badge/demo-live-2ea043?style=flat-square)](https://mskvitalii.github.io/hiring-github-readme/)
+| Repository | Description | Demo |
+| --- | --- | --- |
+| [hiring-github-readme](https://github.com/mskVitalii/hiring-github-readme) | Your Repositories → GitHub profile .md for HR | [live](https://mskvitalii.github.io/hiring-github-readme/) |
+
+### Pytest
+
+| Repository | Description | Demo |
+| --- | --- | --- |
+| [semantically-open-data-backend](https://github.com/mskVitalii/semantically-open-data-backend) | - | - |
 
 ---
 
